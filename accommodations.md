@@ -13,21 +13,21 @@ The following hotels are conveniently close to the workshop venue.
 
 _As always, these are not reservations, just rooms set aside at a guaranteed rate. They can run out quickly! Book early [and use the appropriate codes (available only via the Slack team) to get reduced prices](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)._
 
-### [The Executive Residence at the Ross School of Business](https://michiganross.umich.edu/programs/executive-education/executive-accommodations)
+### [Kellogg Center](https://kelloggcenter.com/)
 
-701 Tappan Street \\
-Ann Arbor, MI 48109-1234
+219 S Harrison Rd \\
+East Lansing, MI 48824
 {: .address}
 
-_Super_ close to the workshop venue. Literally down the street. Highly regarded by the folks who stayed there last year. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+_Relatively_ close . [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
 
-### [Ann Arbor Bed & Breakfast](http://annarborbedandbreakfast.com)
+### [East Lansing Marriott](http://annarborbedandbreakfast.com)
 
-921 E Huron Street \\
-Ann Arbor, MI 48104
+300 M.A.C. Avenue \\
+East Lansing, MI 48824
 {: .address}
 
-Very small venue, but extremely convenient to the workshop location, and a favorite among attendees in past years. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+Spacious hotel, downtown East Lansing. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
 
 ### [The Ann Arbor RegentHotel & Suites](https://annarborregent.com)
 
