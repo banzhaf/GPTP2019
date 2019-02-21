@@ -30,7 +30,7 @@ _Note that this year's workshop will be for the first time *not* in Ann Arbor. W
 
 ### BEACON Center for the Study of Evolution in Action
 
-- [Connie James]()
+- [Connie James](https://www3.beacon-center.org/people/)
 
 ### Social Media
 
