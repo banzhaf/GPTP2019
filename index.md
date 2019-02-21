@@ -55,7 +55,7 @@ A (for-fee) parking garage is available nearby (see below).
 
 Flights should be scheduled to the [Detroit Metro Airport](http://www.metroairport.com) (`DTW`) or to the (closer) [Lansing Capital Airport](http://www.flylansing.com/) (`LAN`). From Detroit, the [Michigan Flyer/AirRide](http://www.michiganflyer.com) shuttle can be arranged which is an affordable and convenient mode of transportation to East Lansing. Travel time on the bus is about 2 hours. Alternatively, you might want to rent a car at DTW. From LAN, you could take a taxi or a ride service. Transportation options should be considered before actually embarking on the trip.
 
-There is very little chance of street parking on weekdays on the University campus, but there is a [pay-by-use parking] close to the College of Engineerring.
+There is very little chance of street parking on weekdays on the University campus, but there is a [pay-by-use parking](https://police.msu.edu/parking-services/visitor-parking/) close to the College of Engineerring.
 
 ## Information for Speakers and Authors
 
