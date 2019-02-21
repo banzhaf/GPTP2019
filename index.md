@@ -6,7 +6,7 @@ dates: "May 16-19, 2019"
 ---
 Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2019 by the [BEACON Center for the Study of Evolution in Action](https://beacon-center.org/) at Michigan State University in East Lansing, MI. This year's conference will be held {{page.dates}}.
 
-_Note that this year's workshop will be for the first time not in Ann Arbor. As last year, it will be extended by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
+_Note that this year's workshop will be for the first time *not* in Ann Arbor. We are venturing out to the next nearest "hot spot" in EC. And as last year, it will be extended by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
 
 ## Important Dates
 
@@ -35,11 +35,11 @@ _Note that this year's workshop will be for the first time not in Ann Arbor. As 
 ### Social Media
 
 - An invitation-only [Slack channel](http://gptp-workshops.slack.com) has been set up for simplifying and consolidating shared and private communication among participants and organizers.
-- Twitter hashtag: [`#gptp2018`](https://twitter.com/search?f=tweets&q=%23gptp2018) (click to search for recent items)
+- Twitter hashtag: [`#gptp2019`](https://twitter.com/search?f=tweets&q=%23gptp2019) (click to search for recent items)
 
 ## Food
 
-A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee will provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. We will convene for a formal dinner and organizational meeting (all attendees are welcome) one of the nights of the workshop. Please let us know if you have any dietary restrictions for catered meals.
+A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee will provided each day of the workshop. Mid-day, a lunch will be provided on-site. After the last session each day, attendees typically self-organize for visits to local restaurants. We might convene for a formal dinner and organizational meeting (all attendees are welcome) one of the nights of the workshop. Please let us know if you have any dietary restrictions for catered meals.
 
 ## Accommodations
 
@@ -47,7 +47,8 @@ A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee w
 
 ## Meeting Location
 
-The 2018 meeting location will be in the [10th Floor Meeting Space of Weiser Hall](https://sites.lsa.umich.edu/weiserhall/) on the University of Michigan Central Campus. Note: _The meeting space cannot be accessed outside of meeting hours._
+The 2019 meeting location will be on the main campus of Michigan State University, located off downtown East Lansing, in the Dean's meeting room at the College of Engineering [3rd Floor of College of Engineering](https://www.egr.msu.edu/). You can find us on the map
+[College of Engineering](https://maps.msu.edu/) if you click for details. 
 
 A (for-fee) parking garage is available nearby (see below).
 
