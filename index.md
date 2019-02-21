@@ -1,16 +1,16 @@
 ---
 layout: default
-updated: "January 29, 2018"
-roman: "XVI"
-dates: "May 17-20, 2018"
+updated: "February 21, 2019"
+roman: "XVII"
+dates: "May 16-19, 2019"
 ---
-Genetic Programming Theory & Practice is a small, invitation-only workshop hosted annually by the [Center for the Study of Complex Systems](http://www.lsa.umich.edu/cscs/) at the University of Michigan in Ann Arbor, MI. This year's conference will be held {{page.dates}}.
+Genetic Programming Theory & Practice is a small, invitation-only workshop hosted 2019 by the [BEACON Center for the Study of Evolution in Action](https://beacon-center.org/) at Michigan State University in East Lansing, MI. This year's conference will be held {{page.dates}}.
 
-_Note that this year's workshop will extend an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
+_Note that this year's workshop will be for the first time not in Ann Arbor. As last year, it will be extended by an additional day compared to earlier sessions, including full days on Thursday, Friday and Saturday, plus a half-day Sunday._
 
 ## Important Dates
 
-- **May 17-20, 2018:** Workshop, presentations, and discussions
+- **May 16-19, 2019:** Workshop, presentations, and discussions
 
 ## Contacts
 
@@ -20,19 +20,17 @@ _Note that this year's workshop will extend an additional day compared to earlie
 
 - [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
     - [Slack](https://gptp-workshops.slack.com/messages/@wolfgang/)
+- [Erik Goodman](https://www.egr.msu.edu/~goodman/)
 - [Leigh Sheneman](http://leighsheneman.com/)
     - [Twitter](https://twitter.com/ag_shen)
     - [Slack](https://gptp-workshops.slack.com/messages/@leighs/)
-- [Lee Spector](http://faculty.hampshire.edu/lspector/)
-    - [Twitter](https://twitter.com/leespector)
-    - [Slack](https://gptp-workshops.slack.com/messages/@lspector/)
-- [Bill Tozier](http://vaguery.github.io/)
-    - [Twitter](https://twitter.com/vaguery)
-    - [Slack](https://gptp-workshops.slack.com/messages/@bill_tozier/)
+- [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
+- [Bill Worzel](https://www.spartaninnovations.org/bill-worzel)
+    - [Slack](https://gptp-workshops.slack.com/messages/@bill_w/)
 
-### Center for the Study of Complex Systems
+### BEACON Center for the Study of Evolution in Action
 
-- [Linda Wood](https://lsa.umich.edu/cscs/people/staff/linmwood.html)
+- [Connie James]()
 
 ### Social Media
 
