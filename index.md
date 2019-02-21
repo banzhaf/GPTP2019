@@ -48,7 +48,7 @@ A light breakfast of pastries, fresh fruit, meats, cheeses, yoghurt and coffee w
 ## Meeting Location
 
 The 2019 meeting location will be on the main campus of Michigan State University, located off downtown East Lansing, in the Dean's meeting room at the College of Engineering [3rd Floor of College of Engineering](https://www.egr.msu.edu/). You can find us on the map
-[College of Engineering](https://maps.msu.edu/) if you click for details. 
+[College of Engineering](https://maps.msu.edu/) if you click for [details](https://maps.msu.edu/interactive/index.php?q=College%20of%20Engineering).
 
 A (for-fee) parking garage is available nearby (see below).
 
