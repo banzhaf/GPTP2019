@@ -21,13 +21,16 @@ East Lansing, MI 48824
 
 _Relatively_ close . [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
 
+
+## Other Hotels
+
 ### [East Lansing Marriott](https://www.marriott.com/hotels/travel/lanea-east-lansing-marriott-at-university-place/?scid=45f93f1b-bd77-45c9-8dab-83b6a417f6fe)
 
 300 M.A.C. Avenue \\
 East Lansing, MI 48824
 {: .address}
 
-Spacious hotel, downtown East Lansing. [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+Spacious hotel, downtown East Lansing. 
 
 ### [The Quality Inn University]
 
@@ -35,6 +38,6 @@ Spacious hotel, downtown East Lansing. [`Discount details`](https://gptp-worksho
 Lansing, MI 48912
 {: .address}
 
-... [`Discount details`](https://gptp-workshops.slack.com/files/U0U5V2QJ0/F9HEM7FE3/2018_Lodging_details)
+
 
 
