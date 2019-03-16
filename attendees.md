@@ -9,15 +9,18 @@ dates: "May 17-20, 2018"
 ## Organizers
 
 - [Wolfgang Banzhaf](http://www.cse.msu.edu/~banzhafw/)
+- [Erik Goodman](https://www.egr.msu.edu/~goodman/)
 - [Leigh Sheneman](http://www.leighsheneman.com)
-- [Lee Spector](http://faculty.hampshire.edu/lspector/)
-- [William Tozier](http://vaguery.com)
+- [Leonardo Trujillo](https://www.researchgate.net/lab/Leonardo-Trujillo-Lab)
+- [Bill Worzel](https://www.spartaninnovations.org/bill-worzel)
+
+
 
 ## Keynote Speakers
 
-- [Walter Fontana](https://fontana.hms.harvard.edu), Harvard University
-- [Katya Vladislavleva](https://datastories.com/about), CEO [DataStories](https://datastories.com)
-- Marco Tomassini, University of Lausanne
+- [Gavin Schmidt](https://en.wikipedia.org/wiki/Gavin_Schmidt)
+- [Indika Rajapakse](https://bme.umich.edu/people/indika-rajapakse/)
+- TBD
 
 ## Attending
 
