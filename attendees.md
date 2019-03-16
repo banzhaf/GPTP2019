@@ -1,8 +1,8 @@
 ---
 layout: default
-updated: "May 5, 2018"
+updated: "March 16, 2019"
 roman: "XVI"
-dates: "May 17-20, 2018"
+dates: "May 16-19, 2019"
 ---
 \[see [schedule](schedule.html) for details]
 
@@ -31,22 +31,21 @@ dates: "May 17-20, 2018"
 - Ivo Goncalves
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
 - [Arend Hintze](http://hintzelab.msu.edu)
-- Ting Hu
-- [Lukas Kammererr](https://heal.heuristiclab.com/team/kammerer)
+- [Ting Hu](https://sites.google.com/site/tinghushomepage/)
+- [Lukas Kammerer](https://heal.heuristiclab.com/team/kammerer)
 - [Stephen Kelly](http://stephenkelly.ca/?q=node/29)
-- Arthur Kordon
-
+- [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/)
 - [Mark Kotanchek](http://www.evolved-analytics.com)
 - Bill LaCava
 - Miguel Nicolau
 - [Charles Ofria](http://www.ofria.com)
-- Gustavo Olague
+- [Gustavo Olague](http://evovision.cicese.mx/)
 - Susanne Schaller
-- [Moshe Sipper]()
-- Andrew N. Sloss [ARM]
+- [Moshe Sipper](http://www.moshesipper.com/)
+- [Andrew N. Sloss](https://www.linkedin.com/in/asloss/)
 - [Kai Staats](https://www.kaistaats.com)
 - [Leonardo Trujillo](http://www.tree-lab.org/index.php/people-2/reserachers/46-leonardo-trujillo)
-- [David R. White]()
+- [David R. White](http://www.davidrwhite.co.uk/)
 - [Stephan Winkler](https://heal.heuristiclab.com/team/winkler)
 
 
