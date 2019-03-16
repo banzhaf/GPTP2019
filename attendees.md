@@ -24,7 +24,7 @@ dates: "May 17-20, 2018"
 
 ## Attending
 
-- [Clifford Bohm](https://cliffbohm.weebly.com)
+#- [Clifford Bohm](https://cliffbohm.weebly.com)
 - Stuard Card
 - Michael Cavaretta
 - [Nitash C G](http://hintzelab.msu.edu/index.php/people/)
