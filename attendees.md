@@ -24,9 +24,9 @@ dates: "May 16-19, 2019"
 
 ## Attending
 
-- Stuard Card
-- Marco Cavaglio
-- [Francisco Fernandez]()
+- [Stuard Card](https://www.researchgate.net/profile/Stuart_Card3)
+- [Marco Cavaglia](http://www.phy.olemiss.edu/~cavaglia/)
+- [Francisco Fernandez](https://www.researchgate.net/profile/Francisco_Vega3)
 - [James Foster](http://people.ibest.uidaho.edu/~foster/)
 - Ivo Goncalves
 - [Malcolm I. Heywood](https://web.cs.dal.ca/~mheywood/)
@@ -36,8 +36,8 @@ dates: "May 16-19, 2019"
 - [Stephen Kelly](http://stephenkelly.ca/?q=node/29)
 - [Arthur Kordon](https://www.linkedin.com/in/arthur-kordon-a86980/)
 - [Mark Kotanchek](http://www.evolved-analytics.com)
-- Bill LaCava
-- Miguel Nicolau
+- [Bill LaCava](https://www.linkedin.com/in/williamlacava/)
+- [Miguel Nicolau](https://people.ucd.ie/miguel.nicolau)
 - [Charles Ofria](http://www.ofria.com)
 - [Gustavo Olague](http://evovision.cicese.mx/)
 - Susanne Schaller
