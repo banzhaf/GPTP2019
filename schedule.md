@@ -1,9 +1,14 @@
 ---
 layout: default
-updated: "May 15, 2018"
-roman: "XVI"
-dates: "May 17-20, 2018"
+updated: "March 19, 2019"
+roman: "XVII"
+dates: "May 16-19, 2019"
 ---
+
+
+We normally start at 9:00 or 9:30 am on the first day, that is May 16, 2019,
+and end after lunch on the last day, that is May 19, 2019. 
+
 
 [tentative schedule subject to minor changes; check frequently and submit change requests via [Slack!](https://gptp-workshops.slack.com)]
 
